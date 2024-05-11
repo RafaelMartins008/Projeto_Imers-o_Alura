@@ -1,1 +1,4 @@
 # Projeto_Imersão_Alura
+Ola!
+A ideia do projeto é automatizar a análise de dados utilizando o Gemini, basicamente criar um "analista de dados" pessoal. Com isso as pessoas que precisam analisar informações não precisam perder tempo criando gráficos ou esperando um analista de dados entregar essa informação, basta fazer uma pergunta para o modelo e ele retornará a informação com base nos dados conectados ao modelo.
+Nunca havia utilizado Python então tive certas dificuldades como fazer o Gemini interpretar o conjunto de dados diretamente sem precisar passar a informação no prompt. Outra difcilcade é fazer o Colab executar atomaticamente o código gerado pelo Gemini, acredito que seja possivel más minha falta de conhecimento não permitiu realizar. Acredito que com tempo suficiente isso possa ser melhorado!
